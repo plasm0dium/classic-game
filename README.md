@@ -1,1 +1,1 @@
-# classic-game
+# A side project to practice HTML5/CSS3. 
