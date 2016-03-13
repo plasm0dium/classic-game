@@ -1,6 +1,8 @@
 /* -----Colors----- */
 /*
-	Orange color: #e98a37;
+	Green sea color: #16a085;
+	Turquoise color: #1abc9c;
+
 /*
 
 
@@ -81,7 +83,7 @@ h3 {
 h2:after {
 	display: block;
 	height: 2px;
-	background-color: #e67e22;
+	background-color: #16a085;
 	content: " ";
 	width: 100px;
 	margin: 0 auto;
@@ -104,9 +106,9 @@ h2:after {
 a:link,
 a:visited {
 	text-decoration: none;
-	color: #e67e22;
-	border-bottom: 1px solid #e67e22;
-	padding-bottom: 1px #e67e22;
+	color: #16a085;
+	border-bottom: 1px solid #16a085;
+	padding-bottom: 1px #16a085;
 }
 
 a:hover,
@@ -133,33 +135,33 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-	background-color: #e98a37;
-	border: 1px solid #e98a37;
+	background-color: #16a085;
+	border: 1px solid #16a085;
 	color: #fff;
 	margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited  {
-	border: 1px solid #e98a37;
-	color: #e98a37;
+	border: 1px solid #16a085;
+	color: #16a085;
 }
 
 .btn:hover,
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-	background-color: #cf6d17;
+	background-color: #1abc9c;
 }
 
 .btn-full:hover,
 .btn-full:active {
-	border: 1px solid #cf6d17;
+	border: 1px solid #1abc9c;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-	border: 1px solid #cf6d17;
+	border: 1px solid #1abc9c;
 	color: #fff;
 }
 
@@ -207,7 +209,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-	border-bottom: 2px solid #e67e22;
+	border-bottom: 2px solid #16a085;
 }
 
 
@@ -284,8 +286,8 @@ header {
 }
 
 .works-step div {
-	color: #e67e22;
-	border: 2px solid #e67e22;
+	color: #16a085;
+	border: 2px solid #16a085;
 	display: inline-block;
 	border-radius: 50%;
 	width: 55px;
@@ -346,7 +348,7 @@ header {
 	font-size: 300%;
 	margin-bottom: 10px;
 	font-weight: 100;
-	color: #e98a37;
+	color: #16a085;
 }
 
 .plan-price-game {
