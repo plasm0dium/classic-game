@@ -1,1 +1,1 @@
-# A side project to practice HTML5/CSS3. 
+# A side project was created to practice HTML5/CSS3. 
